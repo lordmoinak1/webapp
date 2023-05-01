@@ -7,6 +7,11 @@
 # About me
 Developed by [Moinak Bhattacharya](https://sites.google.com/view/moinakb) for BMI 530 project (Instructors: [Dr. Alisa Yurovsky](https://scholar.google.com/citations?user=9517icQAAAAJ&hl=en) and [Dr. Richard Moffitt](https://med.emory.edu/departments/hematology-medical-oncology/profile/?u=RAMOFFI)) and also towards his dissertation (Advisor: [Dr. Prateek Prasanna](https://prateekprasanna.com/)).
 
+# Installations
+```r
+install.packages("shiny")
+```
+
 # Methods
 <p align="center">
   <img src="https://user-images.githubusercontent.com/53391762/235463436-1aa387fb-f1f2-4ccb-8106-f3a702f99a02.png" width="500" height="250">
