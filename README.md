@@ -25,6 +25,13 @@ install.packages("shinyWidgets")
 install.packages("markdown")
 ```
 
+#Instructions
+Run
+```bash
+python3 extract_images.py
+Rscript app.R
+```
+
 # Methods
 <p align="center">
   <img src="https://user-images.githubusercontent.com/53391762/235463436-1aa387fb-f1f2-4ccb-8106-f3a702f99a02.png" width="500" height="250">
