@@ -8,14 +8,6 @@
 Developed by [Moinak Bhattacharya](https://sites.google.com/view/moinakb) for BMI 530 project (Instructors: [Dr. Alisa Yurovsky](https://scholar.google.com/citations?user=9517icQAAAAJ&hl=en) and [Dr. Richard Moffitt](https://med.emory.edu/departments/hematology-medical-oncology/profile/?u=RAMOFFI)) and also towards his dissertation (Advisor: [Dr. Prateek Prasanna](https://prateekprasanna.com/)).
 
 # Installations
-Install these R packages
-```r
-install.packages("RNifti")
-install.packages("shiny")
-install.packages("shinythemes")
-install.packages("shinyWidgets")
-install.packages("markdown")
-```
 Install these Python packages
 ```bash
 pip3 install pydicom
@@ -23,6 +15,14 @@ pip3 install pydicom_seg
 pip3 install simpleITK
 pip3 install nibabel
 pip3 install pydicom
+```
+Install these R packages
+```r
+install.packages("RNifti")
+install.packages("shiny")
+install.packages("shinythemes")
+install.packages("shinyWidgets")
+install.packages("markdown")
 ```
 
 # Methods
