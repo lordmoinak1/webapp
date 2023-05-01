@@ -10,8 +10,19 @@ Developed by [Moinak Bhattacharya](https://sites.google.com/view/moinakb) for BM
 # Installations
 Install these R packages
 ```r
-install.packages("shiny")
 install.packages("RNifti")
+install.packages("shiny")
+install.packages("shinythemes")
+install.packages("shinyWidgets")
+install.packages("markdown")
+```
+Install these Python packages
+```bash
+pip3 install pydicom
+pip3 install pydicom_seg
+pip3 install simpleITK
+pip3 install nibabel
+pip3 install pydicom
 ```
 
 # Methods
