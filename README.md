@@ -8,8 +8,10 @@
 Developed by [Moinak Bhattacharya](https://sites.google.com/view/moinakb) for BMI 530 project (Instructors: [Dr. Alisa Yurovsky](https://scholar.google.com/citations?user=9517icQAAAAJ&hl=en) and [Dr. Richard Moffitt](https://med.emory.edu/departments/hematology-medical-oncology/profile/?u=RAMOFFI)) and also towards his dissertation (Advisor: [Dr. Prateek Prasanna](https://prateekprasanna.com/)).
 
 # Installations
+Install these R packages
 ```r
 install.packages("shiny")
+install.packages("RNifti")
 ```
 
 # Methods
