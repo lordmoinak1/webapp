@@ -34,7 +34,7 @@ Rscript app.R
 
 # Methods
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/53391762/235463436-1aa387fb-f1f2-4ccb-8106-f3a702f99a02.png" width="500" height="250">
+  <img src="https://user-images.githubusercontent.com/53391762/235482487-a15d0811-0bd8-4dfb-8549-ef3f20ce9547.png" width="500" height="250">
 </p>
 
 # Limitations (for now)
